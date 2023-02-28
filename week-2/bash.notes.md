@@ -55,3 +55,6 @@ Task 9 - 10 (commands: ls, strings, grep)
 ![Alt text](Task%20Level%209%20to%2010%20-%20Bandit.png)
 
 
+Task 10 - 11 (commands: ls, cat, base64)
+*base64 - koristimo ovu komandu kako bi dekodirali sadrzaj data.txt fajla koji se nalazi u binarnom formatu*
+![Alt text](Task%20Level%2010%20to%2011%20-%20Bandit.png)
